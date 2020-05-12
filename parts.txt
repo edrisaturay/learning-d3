@@ -1,0 +1,65 @@
+<!--
+<svg width="500" height="500" >
+-->
+    <!-- Rectangle -->
+ <!--   <rect
+        width="100"
+        height="100"
+        fill="#0033a0" x="20" y="20"
+        stroke-width="20"
+        stroke="#ff0000"></rect>
+        -->
+<!--    Circles, lines, ellipses-->
+<!--
+    <circle
+        r="100"
+        cx="105"
+        cy="105"
+        stroke="#0033a0"
+        stroke-width="10"
+
+    ></circle>
+
+    <ellipse
+        rx="200"
+        ry="100"
+        cx="205"
+        cy="105"
+        fill="#0033a0"
+        stroke-width="10"
+        stroke="#000"></ellipse>
+
+    <line x1="25" y1="25"
+          x2="200" y2="200"
+          stroke="red"
+          stroke-width="20"></line>
+    -->
+<!--    Polygons & Polylines-->
+<!--
+    <polygon points="220,10 123,234 300,210 170,250"
+             fill="#e9e9e9"
+             stroke-width="10"
+             stroke="#0033a0"
+    ></polygon>
+
+
+    <polyline points="220,10 123,234 300,210 170,250"
+              stroke="#000"
+              fill="none"
+              stroke-width="10"></polyline>
+  -->
+
+<!--    Path-->
+<!--    <path
+        d="
+            M 100, 100
+            L 300, 150
+            L 300, 300
+            Q 200, 400 100, 200
+        "
+        fill="none"
+        stroke-width="10"
+        stroke="#000"
+    ></path>
+</svg>
+-->
